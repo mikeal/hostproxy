@@ -1,6 +1,6 @@
 {
   "name": "hostproxy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "HTTP Proxy that searches for Host header and avoids any parsing",
   "main": "index.js",
   "directories": {
