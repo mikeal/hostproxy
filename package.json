@@ -1,0 +1,23 @@
+{
+  "name": "hostproxy",
+  "version": "0.0.0",
+  "description": "HTTP Proxy that searches for Host header and avoids any parsing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/hostproxy"
+  },
+  "keywords": [
+    "http",
+    "proxy"
+  ],
+  "author": "Mikeal Rogers",
+  "license": "Apache 2",
+  "readmeFilename": "README.md"
+}
