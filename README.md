@@ -1,5 +1,7 @@
 ### Pure TCP HTTP Proxy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/hostproxy.svg)](https://greenkeeper.io/)
+
 `hostproxy` is a pure TCP proxy for HTTP. It does not fully parse HTTP, it simply searches for the `Host` header and injects other headers in to the stream.
 
 #### API
